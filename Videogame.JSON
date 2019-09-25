@@ -58,5 +58,5 @@
 	"img_logo": "https://i.blogs.es/a29904/bo4/450_1000.jpg",
     "description": "Call of Duty: Black Ops 4 es un videojuego de acción y disparos en primera persona",
 	"video_url": "https://www.youtube.com/watch?v=BjiaMBk6rHk"
-	}	
+	}, { "id": 6, "Videogame_name": "The last of Us", "Mode": "Un jugador, online", "Designer":"Neil Druckmann", "Gender": "accion, supervivencia", "Developers": "Naughty Dogs", "Plataform": "Xbox One,PS3, PS4", "img_logo": "https://cdn.vox-cdn.com/thumbor/NIsGfkPFQhKo2iIl2dnVQpbuD30=/150x0:1770x1080/1200x800/filters:focal(150x0:1770x1080)/cdn.vox-cdn.com/uploads/chorus_image/image/36214636/the-last-of-us-older-ellie-fan-art_1920.0.0.jpg", "description": "The Last of Us es un videojuego de acción-aventura y supervivencia de terror desarrollado por la compañía estadounidense Naughty Dog y distribuido para la consola PlayStation 3 en 2013.", "video_url": "https://www.youtube.com/watch?v=OQWD5W3fpPM" }	
 	]
