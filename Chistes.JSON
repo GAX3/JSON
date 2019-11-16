@@ -1,0 +1,371 @@
+[
+{
+"id": 3,
+"id_autor": 2,
+"nombre": "El colmo de un ciego",
+"texto": "Cuál es el colmo de un ciego. Llamarse Casimiro, vivir en la calle Buena vista, en el bloque B, noveno B y trabajar en la fábrica Nivea. Saber que no se va a morir nunca, porque no va a poder ver la luz",
+"created_at": "2017-08-15 00:00:00",
+"updated_at": "2017-08-15 00:00:00",
+"image": "noimage.png"
+},
+{
+"id": 4,
+"id_autor": 2,
+"nombre": "Niños",
+"texto": "Mama, mama… llego el lechero, ¿tienes dinero para pagarle o tengo que ir a jugar afuera?",
+"created_at": "2017-08-15 00:00:00",
+"updated_at": "2017-08-15 00:00:00",
+"image": "noimage.png"
+},
+{
+"id": 5,
+"id_autor": 2,
+"nombre": "Peludo",
+"texto": "Mama, mama… en la escuela me dicen peludo... Callate Hijo y peinate la cara.",
+"created_at": "2017-08-15 00:00:00",
+"updated_at": "2017-08-15 00:00:00",
+"image": "noimage.png"
+},
+{
+"id": 6,
+"id_autor": 1,
+"nombre": "Chuck Norris",
+"texto": "Chuck Norris sólo puede afeitarse la barba con su puño. Porque lo único que corta a Chuck Norris es Chuck Norris",
+"created_at": "2017-08-15 00:00:00",
+"updated_at": "2017-08-15 00:00:00",
+"image": "noimage.png"
+},
+{
+"id": 7,
+"id_autor": 1,
+"nombre": "Almohada",
+"texto": "Chuck Norris duerme con una pistola bajo la almohada, pero podría matarte solo con la almohada.",
+"created_at": "2017-08-16 00:00:00",
+"updated_at": "2017-08-16 00:00:00",
+"image": "noimage.png"
+},
+{
+"id": 8,
+"id_autor": 1,
+"nombre": "Almohada",
+"texto": "Si Chuck Norris llega tarde, más le vale al tiempo ir más despacio.",
+"created_at": "2017-08-16 00:00:00",
+"updated_at": "2017-08-16 00:00:00",
+"image": "noimage.png"
+},
+{
+"id": 9,
+"id_autor": 1,
+"nombre": "Hormiga",
+"texto": "Chuck Norris puede quemar una hormiga con una lupa… de noche.",
+"created_at": "2017-08-16 00:00:00",
+"updated_at": "2017-08-16 00:00:00",
+"image": "noimage.png"
+},
+{
+"id": 10,
+"id_autor": 1,
+"nombre": "Fuego",
+"texto": "Chuck Norris es el único ser humano capaz de respirar bajo el agua... y bajo el fuego. ",
+"created_at": "2017-08-16 00:00:00",
+"updated_at": "2017-08-16 00:00:00",
+"image": "noimage.png"
+},
+{
+"id": 14,
+"id_autor": 1,
+"nombre": "La suegra",
+"texto": "¿Por cuánto me compras a mi suegra? ¿Tu suegra? Por nada. De acuerdo... trato hecho.",
+"created_at": "2017-08-17 00:00:00",
+"updated_at": "2017-08-17 00:00:00",
+"image": "sQH2kKSrhKxl212OKu5Zcse1jr1C1L.jpg"
+},
+{
+"id": 33,
+"id_autor": 1,
+"nombre": "\"Banana Esplí\"",
+"texto": "\"¿Quieres un banana esplí?\"",
+"created_at": "2017-08-18 00:00:00",
+"updated_at": "2017-08-18 00:00:00",
+"image": "noimage.png"
+},
+{
+"id": 34,
+"id_autor": 1,
+"nombre": "La muerte",
+"texto": "En una ocasión la muerte tuvo una experiencia cercana a Chuck Norris",
+"created_at": "2017-08-18 00:00:00",
+"updated_at": "2017-08-18 00:00:00",
+"image": "noimage.png"
+},
+{
+"id": 35,
+"id_autor": 1,
+"nombre": "Chuck contra El pez",
+"texto": "Chuck Norris Retó a un pez a ver quién duraba más bajo el agua... El pez murió",
+"created_at": "2017-08-18 00:00:00",
+"updated_at": "2017-08-18 00:00:00",
+"image": "noimage.png"
+},
+{
+"id": 58,
+"id_autor": 1,
+"nombre": "\"Hola :v \"",
+"texto": "\"Una vez Zlantan se ausentó de clases durante 2 días ha esos días hoy en día se les conoce como fin de semana \"",
+"created_at": "2017-09-06 00:00:00",
+"updated_at": "2017-09-06 00:00:00",
+"image": "EmOYflUHjqTV3nLsvV8Q6PUVAQ2vjN.jpg"
+},
+{
+"id": 77,
+"id_autor": 1,
+"nombre": "Chuck Norris",
+"texto": "Cuando Chuck Norris escupe al cielo, le cae en la cara al sol.",
+"created_at": "2017-09-12 00:00:00",
+"updated_at": "2017-09-12 00:00:00",
+"image": "noimage.png"
+},
+{
+"id": 78,
+"id_autor": 1,
+"nombre": "Otro de Chuck Norris.",
+"texto": "Chuck Norris mata y luego pregunta.",
+"created_at": "2017-09-12 00:00:00",
+"updated_at": "2017-09-12 00:00:00",
+"image": "ArXyiEC9IzbTE1SylDvS450875xLaK.jpg"
+},
+{
+"id": 79,
+"id_autor": 1,
+"nombre": "chuck",
+"texto": "Chuck Norris puede escribir el mismo chiste muchas veces",
+"created_at": "2017-10-05 00:00:00",
+"updated_at": "2017-10-05 00:00:00",
+"image": "COpnM8rF5GHuf60CbvMg7zCwklM8ob.jpg"
+},
+{
+"id": 80,
+"id_autor": 1,
+"nombre": "chuck",
+"texto": "Chuck Norris puede escribir el mismo chiste muchas veces",
+"created_at": "2017-10-05 00:00:00",
+"updated_at": "2017-10-05 00:00:00",
+"image": "yUwTvF12iNNw9z2ZouL8kfMUkHmxyM.jpg"
+},
+{
+"id": 81,
+"id_autor": 1,
+"nombre": "chuck Norris",
+"texto": "Chuck Norris se puede mirar la nuca ",
+"created_at": "2017-10-05 00:00:00",
+"updated_at": "2017-10-05 00:00:00",
+"image": "LAiQljnAEcSjhYGXDE93sja9NCfayF.jpg"
+},
+{
+"id": 82,
+"id_autor": 1,
+"nombre": "animal Antiguo.",
+"texto": "¿Cual es el animal mad antiguo? La vaca. ¿Y eso? Porque esta en blanco y negro.",
+"created_at": "2017-10-06 00:00:00",
+"updated_at": "2017-10-06 00:00:00",
+"image": "noimage.png"
+},
+{
+"id": 83,
+"id_autor": 1,
+"nombre": "Pollito y Zorro.",
+"texto": "Un zorro con un pollito y le dice: I'm sorry. El pollito contesta: I'm pollito",
+"created_at": "2017-10-06 00:00:00",
+"updated_at": "2017-10-06 00:00:00",
+"image": "noimage.png"
+},
+{
+"id": 84,
+"id_autor": 1,
+"nombre": "Pollo y Zorro",
+"texto": "Un zorro gringo choca con un pollito y le dice: I'm sorry. El pollito le contesta: I'm pollito.",
+"created_at": "2017-10-06 00:00:00",
+"updated_at": "2017-10-06 00:00:00",
+"image": "noimage.png"
+},
+{
+"id": 85,
+"id_autor": 1,
+"nombre": "Chuck Norris",
+"texto": "Chuck Norris habla con los animales. ",
+"created_at": "2017-10-06 00:00:00",
+"updated_at": "2017-10-06 00:00:00",
+"image": "noimage.png"
+},
+{
+"id": 86,
+"id_autor": 1,
+"nombre": "Chuck Norris",
+"texto": "Los aliens no nos visitan porque Chuck Norris no les da permiso de parquearse.",
+"created_at": "2017-10-06 00:00:00",
+"updated_at": "2017-10-06 00:00:00",
+"image": "QjQGZYYV2rM6oT2qM4BzdaZNDiRNi7.jpg"
+},
+{
+"id": 87,
+"id_autor": 1,
+"nombre": "Carenue",
+"texto": "La inteligencia persigue a Sanchez Ceren pero Carenue le huye. ",
+"created_at": "2017-10-09 00:00:00",
+"updated_at": "2017-10-09 00:00:00",
+"image": "vNKOvJst1QMRyJ1Lc8s0nvWbEtfk6y.jpg"
+},
+{
+"id": 88,
+"id_autor": 1,
+"nombre": "Enano",
+"texto": "Era un hombre tan, pero tan enano, que cuando se sentaba en el suelo, los pies le quedaban colgando. ",
+"created_at": "2017-10-09 00:00:00",
+"updated_at": "2017-10-09 00:00:00",
+"image": "noimage.png"
+},
+{
+"id": 95,
+"id_autor": 42,
+"nombre": "Nuevo chiste",
+"texto": "Chuck Norris programa en Xcode desde un Nokia",
+"created_at": "2017-10-18 00:00:00",
+"updated_at": "2017-10-18 00:00:00",
+"image": "CjZGrz1KHyXZkpU7IvjBa3RMcalAkj.jpg"
+},
+{
+"id": 96,
+"id_autor": null,
+"nombre": "Chuck",
+"texto": "Chuck norris programa android... con una mazorca.",
+"created_at": "2018-08-07 00:00:00",
+"updated_at": "2018-08-07 00:00:00",
+"image": "z035wKKLokHyqHXG"
+},
+{
+"id": 97,
+"id_autor": null,
+"nombre": "Chuck",
+"texto": "Chuck norris programa android... con una mazorca.",
+"created_at": "2018-08-07 00:00:00",
+"updated_at": "2018-08-07 00:00:00",
+"image": "ecdV5N6LIMtrIPsk.png"
+},
+{
+"id": 98,
+"id_autor": null,
+"nombre": "Chuck",
+"texto": "Chuck usa iOS, en una licuadora.",
+"created_at": "2018-08-07 00:00:00",
+"updated_at": "2018-08-07 00:00:00",
+"image": "noimage.jpg"
+},
+{
+"id": 99,
+"id_autor": 1,
+"nombre": "Chuck",
+"texto": "Chuck Mata pero no ahorca.",
+"created_at": "2018-08-07 00:00:00",
+"updated_at": "2018-08-07 00:00:00",
+"image": "noimage.jpg"
+},
+{
+"id": 100,
+"id_autor": 1,
+"nombre": "\"Chuck\"",
+"texto": "\"Primero muerto que ver a Chuck\"",
+"created_at": "2018-08-07 00:00:00",
+"updated_at": "2018-08-07 00:00:00",
+"image": "proZywBqeMxJhOhm.png"
+},
+{
+"id": 101,
+"id_autor": 1,
+"nombre": "\"El terror de un feo\"",
+"texto": "\"Que ella te deje en visto.\"",
+"created_at": "2018-08-08 00:00:00",
+"updated_at": "2018-08-08 00:00:00",
+"image": "mD4fGVup7HT1XfNK.png"
+},
+{
+"id": 103,
+"id_autor": 1,
+"nombre": "\"El colmo de un feo\"",
+"texto": "\"Que sus hijos sean igualitos a el\"",
+"created_at": "2018-08-08 00:00:00",
+"updated_at": "2018-08-08 00:00:00",
+"image": "UlQjdwjHc5LtAILa.png"
+},
+{
+"id": 115,
+"id_autor": 1,
+"nombre": "Chuck y las chavas",
+"texto": "Chuck Norris puede enamorar a las chavas enseñando su puño.",
+"created_at": "2018-09-17 00:00:00",
+"updated_at": "2018-09-17 00:00:00",
+"image": "noimage.jpg"
+},
+{
+"id": 116,
+"id_autor": 1,
+"nombre": "Chuck Norris",
+"texto": "Chuck Norri",
+"created_at": "2019-09-17 00:00:00",
+"updated_at": "2019-09-17 00:00:00",
+"image": "VOrSkoyMeQYxCiSk.png"
+},
+{
+"id": 117,
+"id_autor": 1,
+"nombre": "Lol",
+"texto": "No se:(",
+"created_at": "2019-09-17 00:00:00",
+"updated_at": "2019-09-17 00:00:00",
+"image": "noimage.jpg"
+},
+{
+"id": 119,
+"id_autor": 53,
+"nombre": "Ella",
+"texto": "Ella es tan fries como cualquier cosa",
+"created_at": "2019-09-17 00:00:00",
+"updated_at": "2019-09-17 00:00:00",
+"image": "noimage.jpg"
+},
+{
+"id": 120,
+"id_autor": 54,
+"nombre": "Chiste sobre",
+"texto": "Me dejo el bus, igual que ella",
+"created_at": "2019-09-19 00:00:00",
+"updated_at": "2019-09-19 00:00:00",
+"image": "noimage.jpg"
+},
+{
+"id": 121,
+"id_autor": 59,
+"nombre": "Chiste sobre Ella 2",
+"texto": "Se rompio mi vaso, como su amor por mi",
+"created_at": "2019-09-19 00:00:00",
+"updated_at": "2019-09-19 00:00:00",
+"image": "aAjCP6nCClyN8PoC.png"
+},
+{
+"id": 122,
+"id_autor": 68,
+"nombre": "Otro de pepito",
+"texto": "Mama mama, ella no me quiere",
+"created_at": "2019-09-19 00:00:00",
+"updated_at": "2019-09-19 00:00:00",
+"image": "wuGWKkn2qcF21EKz.png"
+},
+{
+"id": 123,
+"id_autor": 67,
+"nombre": "ella",
+"texto": "ella no me ama mucho",
+"created_at": "2019-09-19 00:00:00",
+"updated_at": "2019-09-19 00:00:00",
+"image": "STs4B4mJLDRex9FL.png"
+}
+]
