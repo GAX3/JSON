@@ -21,6 +21,39 @@
 
 		"img_list": "https://peliculasmaslibros.com/wp-content/uploads/2019/11/parasite-2.jpg",
 		"img_description": "https://www.larepublica.net/storage/images/2019/11/05/20191105115826.parasite.jpg"
+	},
+	{
+		"id": 3,
+		"movie_name": "Bad Boys para siempre",
+		"movie_year": "2020",
+		"movie_gender": "Accion, Comedia",
+		"movie_directed": "Bilall Fallah, Adil El Arbi",
+		"runnig_time": "124 minutos",
+		"movie_description": "Los policías de la vieja escuela Mike Lowery y Marcus Burnett vuelven a patrullar juntos para derrotar al líder vicioso de un cartel de drogas de Miami. El recién creado equipo de élite AMMO del departamento de policía de Miami junto con Mike y Marcus se enfrentan al despiadado Armando Armas.",
+		"img_list": "https://www.frecuenciageek.com/wp-content/uploads/2020/01/bad1-1.jpg",
+		"img_description": "https://fotos.perfil.com/2020/02/19/bad-boys-3-917661.jpg"
+	},
+	{
+		"id": 4,
+		"movie_name": "Venom",
+		"movie_year": "2018",
+		"movie_gender": "Accion, Ciencia ficciòn",
+		"movie_directed": "Ruben Fleischer",
+		"runnig_time": "2h 20m",
+		"movie_description": "El periodista Eddie Brock está investigando a Carlton Drake, el célebre fundador de Life Foundation. Brock establece una simbiosis con un ente alienígena que le ofrece superpoderes, pero el ser se apodera de su personalidad y lo vuelve perverso.",
+		"img_list": "https://es.web.img2.acsta.net/pictures/20/01/14/10/12/3234976.jpg",
+		"img_description": "https://www.nerdix.cl/wp-content/uploads/2018/10/VENOM1.jpg"
+	},
+	{
+		"id": 5,
+		"movie_name": "It: capítulo dos",
+		"movie_year": "2019",
+		"movie_gender": "Terror",
+		"movie_directed": "Andrés Muschietti",
+		"runnig_time": "2h 50m",
+		"movie_description": "En el misterioso pueblo de Derry, un malvado payaso llamado Pennywise vuelve 27 años después para atormentar a los ya adultos miembros del Club de los Perdedores, que ahora están más alejados unos de otros.",
+		"img_list": "https://es.web.img3.acsta.net/pictures/19/07/30/09/09/0763744.jpg",
+		"img_description": "https://k62.kn3.net/taringa/8/0/E/4/7/C/AFrediantv/550x310_082.jpg"
 	}
 
 ]
