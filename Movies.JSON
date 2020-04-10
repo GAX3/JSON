@@ -1,0 +1,26 @@
+[{
+		"id": 1,
+		"movie_name": "Joker",
+		"movie_year": "2019",
+		"movie_gender": "Drama, Suspenso, Crimen",
+		"movie_directed": "Todd Phillips",
+		"runnig_time": "122 minutes",
+		"movie_description": "Arthur Fleck adora hacer reír a la gente, pero su carrera como comediante es un fracaso. El repudio social, la marginación y una serie de trágicos acontecimientos lo conducen por el sendero de la locura y, finalmente, cae en el mundo del crimen.",
+
+		"img_list": "https://es.web.img3.acsta.net/pictures/19/09/17/17/03/5442885.jpg",
+		"img_description": "https://img.over-blog-kiwi.com/4/13/53/99/20200111/ob_09e774_joker-2019-1111.jpg"
+	},
+	{
+		"id": 2,
+		"movie_name": "Parasitos",
+		"movie_year": "2019",
+		"movie_gender": "Drama, Suspenso, Humor Negro",
+		"movie_directed": "Bong Joon-ho",
+		"runnig_time": "132 minutos",
+		"movie_description": "Tanto Gi Taek como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo, empieza a impartir clases particulares en la adinerada casa de los Park, las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, entablan una relación de resultados imprevisibles.",
+
+		"img_list": "https://peliculasmaslibros.com/wp-content/uploads/2019/11/parasite-2.jpg",
+		"img_description": "https://www.larepublica.net/storage/images/2019/11/05/20191105115826.parasite.jpg"
+	}
+
+]
