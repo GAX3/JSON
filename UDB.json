@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"place": "UDB Soyapango",
+"coordinates": [
+13.715176, 
+-89.154577
+]
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"place": "UDB Antiguo Cuscatlan",
+"coordinates": [
+13.674109, 
+-89.237004
+]
+}
+}
+]
+}
